@@ -1,13 +1,9 @@
 import cv2
-import math
-from tkinter import *
 import pyautogui
 import time
 import numpy as np
-import matplotlib.pyplot as plt
 import keyboard
 from sentdex import PressKey, ReleaseKey, W, A, S, D
-import operator
 import imutils
 import threading
 
